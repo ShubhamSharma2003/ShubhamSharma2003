@@ -1,7 +1,6 @@
 
+![thumbnail](https://github.com/ShubhamSharma2003/ShubhamSharma2003/assets/117969915/06f34d6a-2c92-4436-817d-ce25ff23ef97)
 
-
-https://github.com/ShubhamSharma2003/ShubhamSharma2003/assets/117969915/0969bf61-4fc7-42a3-8098-dc73b50ae8f6
 
 
 
