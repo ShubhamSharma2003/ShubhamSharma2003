@@ -1,6 +1,5 @@
-![ezgif com-video-to-gif](https://github.com/ShubhamSharma2003/ShubhamSharma2003/assets/117969915/cd4da4fd-b568-42fb-b70f-82a53d4a9693)
 
-
+Uploading developer.mov…
 
 
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
