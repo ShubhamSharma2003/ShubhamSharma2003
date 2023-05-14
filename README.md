@@ -1,7 +1,5 @@
 
-![thumbnail](https://github.com/ShubhamSharma2003/ShubhamSharma2003/assets/117969915/06f34d6a-2c92-4436-817d-ce25ff23ef97)
-
-
+https://github.com/ShubhamSharma2003/ShubhamSharma2003/assets/117969915/ac2c9064-c091-4c7e-8778-bd6fe2e69492
 
 
 
@@ -9,7 +7,7 @@
 <h3 align="center">Passionate web developer crafting pixel-perfect experiences with code, fueled by caffeine and a love for turning ideas into reality.</h3>
 <img align = "right" alt="coding" width="400" src="https://i.pinimg.com/originals/a8/ea/82/a8ea82f4a7a31d90ad5366b60248472d.gif">
 
-- 🔭 I’m currently working on **Something**
+- 🔭 I'm currently forging a digital masterpiece, harnessing the power of web development to bring Something extraordinary into existence.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShubhamSharma2003](https://github.com/ShubhamSharma2003)
 
