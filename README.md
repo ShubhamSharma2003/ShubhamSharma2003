@@ -1,8 +1,7 @@
-<!-- 
-https://github.com/ShubhamSharma2003/ShubhamSharma2003/assets/117969915/ac2c9064-c091-4c7e-8778-bd6fe2e69492
- -->
-<img align = "center" alt="coding1" width="1280" height="640" src="![thumbnail](https://github.com/ShubhamSharma2003/ShubhamSharma2003/assets/117969915/1472ed4f-2935-496f-a62e-2005c4bb6758)
-">
+![ezgif com-video-to-gif](https://github.com/ShubhamSharma2003/ShubhamSharma2003/assets/117969915/cd4da4fd-b568-42fb-b70f-82a53d4a9693)
+
+
+
 
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <h3 align="center">Passionate web developer crafting pixel-perfect experiences with code, fueled by caffeine and a love for turning ideas into reality.</h3>
