@@ -5,7 +5,7 @@ https://github.com/ShubhamSharma2003/ShubhamSharma2003/assets/117969915/b56f5e6c
 <h3 align="center">Passionate web developer crafting pixel-perfect experiences with code, fueled by caffeine and a love for turning ideas into reality.</h3>
 <img align = "right" alt="coding" width="400" src="https://i.pinimg.com/originals/a8/ea/82/a8ea82f4a7a31d90ad5366b60248472d.gif">
 
-- 🔭 I'm currently forging a digital masterpiece, harnessing the power of web development to bring Something extraordinary into existence.
+- 🔭 I'm currently working on Personal Portfolio and Contributing to OpenSource.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShubhamSharma2003](https://github.com/ShubhamSharma2003)
 
