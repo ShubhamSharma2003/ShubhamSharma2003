@@ -1,5 +1,4 @@
 
-https://github.com/ShubhamSharma2003/ShubhamSharma2003/assets/117969915/b56f5e6c-f6da-434f-a38a-b8f9e254b181
 
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <h3 align="center">Passionate web developer crafting pixel-perfect experiences with code, fueled by caffeine and a love for turning ideas into reality.</h3>
@@ -29,5 +28,6 @@ https://github.com/ShubhamSharma2003/ShubhamSharma2003/assets/117969915/b56f5e6c
 <a href=#><img src="contributions.svg"></a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamsharma2003&show_icons=true&locale=en&layout=compact" alt="shubhamsharma2003" /></p>
+
 
 
