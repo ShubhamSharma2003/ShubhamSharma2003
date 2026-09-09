@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
-<h3 align="center">AI Engineer at NOISE — I build agentic AI systems that replace entire manual workflows, end-to-end: architecture, backend, frontend, deployment.</h3>
+<h3 align="center">Full-Stack AI Builder & Forward Deployed Engineer — I build agentic AI systems that replace entire manual workflows, end-to-end: architecture, backend, frontend, deployment.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SDE1%20·%20AI-NOISE-9B72F2?style=for-the-badge&labelColor=0B0B0F" alt="SDE1 AI at NOISE" />
-  <img src="https://img.shields.io/badge/Gurugram-India-4FD8E8?style=for-the-badge&labelColor=0B0B0F" alt="Gurugram, India" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-4E8CFF?style=for-the-badge&labelColor=0B0B0F" alt="Open to opportunities" />
+  <img src="https://img.shields.io/badge/Full--Stack-AI%20Builder-9B72F2?style=for-the-badge&labelColor=0B0B0F" alt="Full-Stack AI Builder" />
+  <img src="https://img.shields.io/badge/Forward-Deployed%20Engineer-F0578E?style=for-the-badge&labelColor=0B0B0F" alt="Forward Deployed Engineer" />
+  <img src="https://img.shields.io/badge/AI-Engineer-4FD8E8?style=for-the-badge&labelColor=0B0B0F" alt="AI Engineer" />
+  <img src="https://img.shields.io/badge/Builder-Ships%20to%20Prod-4E8CFF?style=for-the-badge&labelColor=0B0B0F" alt="Builder" />
 </p>
 
 <img align="right" alt="AI engineering" width="380" src="https://i.pinimg.com/originals/a8/ea/82/a8ea82f4a7a31d90ad5366b60248472d.gif">
 
-- 🤖 I'm an **AI-first software engineer** at **NOISE** (boAt Lifestyle) — joined as an intern, converted to **SDE1** by shipping production AI systems.
+- 🤖 **AI Engineer & Builder** — I ship AI systems that go straight into production and take real work off people's hands.
+
+- 🚀 **Forward deployed by instinct.** I sit with the actual problem, not the ticket — ambiguous scope, high pressure, live users. That's where I do my best work.
 
 - 🔭 Currently building **agentic AI pipelines**, **RAG systems**, and **voice AI agents** — plus the Node/Python backends and Next.js frontends that carry them.
 
@@ -36,11 +39,11 @@
   </tr>
 </table>
 
-### 🚀 What I've shipped
+### 🚀 What I've built
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Warehouse PO Automation** | Agentic system ingesting POs from Amazon, Flipkart & LFR (Croma, Reliance, Tresor) — parses, validates every SKU live against the OMS, auto-punches. Replaced 4–5 people's manual work. | Agentic AI · N8N · OCR · FastAPI · Kafka · Redis |
+| **Warehouse PO Automation** | Agentic system ingesting Purchase Orders from Amazon, Flipkart & large-format retail — parses, validates every SKU live against the OMS, auto-punches. Replaced 4–5 people's manual work. | Agentic AI · N8N · OCR · FastAPI · Kafka · Redis |
 | **AI HR Recruitment Pipeline** | Scans hundreds of resumes in minutes against an auto-generated JD, sources from LinkedIn, ranks by fit before a human looks. Weeks → hours. | NLP/NER · LLM · Embeddings · Python |
 | **Social Listener & Brand Monitor** | Real-time brand intelligence across 5 social platforms with sentiment analysis. | Sentiment Analysis · Web Scraping · Next.js |
 | **Instagram & DM Automation Agent** | 24/7 conversational agent running with zero human support. | LLM · Instagram Graph API · Webhooks |
